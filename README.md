@@ -12,7 +12,7 @@ class AboutMe:
         }
         
         self.knowledge = {
-            "programming_languages": ["Python", "JavaScript"],
+            "programming_languages": ["Python", "JavaScript", "Swift"],
         }
     
     def get_contact(self):
