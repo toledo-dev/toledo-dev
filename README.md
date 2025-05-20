@@ -2,7 +2,6 @@
 class AboutMe:
     def __init__(self):
         self.contact = {
-            "blog": "https://toledo-dev.github.io/",
             "mail": "leticiatsm@icloud.com"
         }
         
