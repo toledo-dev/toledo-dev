@@ -11,7 +11,7 @@ class AboutMe:
         }
         
         self.knowledge = {
-            "programming_languages": ["Python", "JavaScript", "Swift", "HTML"],
+            "programming_languages": ["Python", "JavaScript", "Swift", "CSS"],
             "databases": ["SQLite"]
         }
     
